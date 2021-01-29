@@ -24,6 +24,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
     "cors": "^2.8.5",
     "debug": "^4.1.1",
     "dotenv": "^8.2.0",
@@ -32,6 +33,9 @@
     "knex": "^0.21.2",
     "morgan": "^1.10.0",
     "pg": "^8.3.0",
+    "puppeteer": "^5.5.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
     "uuid": "^8.1.0",
     "winston": "^3.2.1"
   },
